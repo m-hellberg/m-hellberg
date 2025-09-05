@@ -1,9 +1,14 @@
 # Hi 👋
 I’m Monica, a developer in training with a passion for building fullstack applications. Right now, I’m in my final year at EC Utbildning, where I study frontend development while also expanding my skills on the backend side.
 
-This GitHub is my learning ground — a place where I share both school assignments and personal projects in the future, documenting my journey from simple beginnings to more advanced applications.
+This GitHub is my learning ground, a place where I share both school assignments and personal projects in the future, documenting my journey from simple beginnings to more advanced applications.
 
 At this stage, my focus is on deepening my foundational knowledge while experimenting with new technologies, especially within modern web practices that emphasize scalability and efficiency.
+
+## 🚀 TechStack and Core Tools
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
 <!--
 **m-hellberg/m-hellberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
