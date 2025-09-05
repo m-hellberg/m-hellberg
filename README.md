@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi 👋
+I’m Monica, a developer in training with a passion for building fullstack applications. Right now, I’m in my final year at EC Utbildning, where I study frontend development while also expanding my skills on the backend side.
+
+This GitHub is my learning ground — a place where I share both school assignments and personal projects in the future, documenting my journey from simple beginnings to more advanced applications. I’m especially interested in modern web practices and how to create solutions that are both scalable and efficient.
+
 
 <!--
 **m-hellberg/m-hellberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
